@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav h1 {
+    margin: 0;
+}
+
+.nav a {
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+}
